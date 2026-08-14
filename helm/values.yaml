@@ -1,4 +1,4 @@
-knamespace: production
+namespace: production
 
 replicaCount: 2
 
